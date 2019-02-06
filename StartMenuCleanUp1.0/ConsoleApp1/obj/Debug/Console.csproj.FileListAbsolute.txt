@@ -1,0 +1,7 @@
+F:\-----Programming----\C# Visual Studio\Practice C# Programs\StartMenuCleanUp1.0\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+F:\-----Programming----\C# Visual Studio\Practice C# Programs\StartMenuCleanUp1.0\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+F:\-----Programming----\C# Visual Studio\Practice C# Programs\StartMenuCleanUp1.0\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+F:\-----Programming----\C# Visual Studio\Practice C# Programs\StartMenuCleanUp1.0\ConsoleApp1\obj\Debug\Console.csprojAssemblyReference.cache
+F:\-----Programming----\C# Visual Studio\Practice C# Programs\StartMenuCleanUp1.0\ConsoleApp1\obj\Debug\Console.csproj.CoreCompileInputs.cache
+F:\-----Programming----\C# Visual Studio\Practice C# Programs\StartMenuCleanUp1.0\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+F:\-----Programming----\C# Visual Studio\Practice C# Programs\StartMenuCleanUp1.0\ConsoleApp1\obj\Debug\ConsoleApp1.pdb

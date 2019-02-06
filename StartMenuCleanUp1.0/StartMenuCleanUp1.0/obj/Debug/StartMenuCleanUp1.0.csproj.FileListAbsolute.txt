@@ -1,0 +1,10 @@
+F:\-----Programming----\C# Visual Studio\Practice C# Programs\StartMenuCleanUp1.0\StartMenuCleanUp1.0\bin\Debug\StartMenuCleanUp1.0.exe.config
+F:\-----Programming----\C# Visual Studio\Practice C# Programs\StartMenuCleanUp1.0\StartMenuCleanUp1.0\bin\Debug\StartMenuCleanUp1.0.exe
+F:\-----Programming----\C# Visual Studio\Practice C# Programs\StartMenuCleanUp1.0\StartMenuCleanUp1.0\bin\Debug\StartMenuCleanUp1.0.pdb
+F:\-----Programming----\C# Visual Studio\Practice C# Programs\StartMenuCleanUp1.0\StartMenuCleanUp1.0\obj\Debug\StartMenuCleanUp1.0.csprojAssemblyReference.cache
+F:\-----Programming----\C# Visual Studio\Practice C# Programs\StartMenuCleanUp1.0\StartMenuCleanUp1.0\obj\Debug\StartMenuCleanUp1._0.Form1.resources
+F:\-----Programming----\C# Visual Studio\Practice C# Programs\StartMenuCleanUp1.0\StartMenuCleanUp1.0\obj\Debug\StartMenuCleanUp1._0.Properties.Resources.resources
+F:\-----Programming----\C# Visual Studio\Practice C# Programs\StartMenuCleanUp1.0\StartMenuCleanUp1.0\obj\Debug\StartMenuCleanUp1.0.csproj.GenerateResource.cache
+F:\-----Programming----\C# Visual Studio\Practice C# Programs\StartMenuCleanUp1.0\StartMenuCleanUp1.0\obj\Debug\StartMenuCleanUp1.0.csproj.CoreCompileInputs.cache
+F:\-----Programming----\C# Visual Studio\Practice C# Programs\StartMenuCleanUp1.0\StartMenuCleanUp1.0\obj\Debug\StartMenuCleanUp1.0.exe
+F:\-----Programming----\C# Visual Studio\Practice C# Programs\StartMenuCleanUp1.0\StartMenuCleanUp1.0\obj\Debug\StartMenuCleanUp1.0.pdb
