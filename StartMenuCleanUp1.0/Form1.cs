@@ -24,8 +24,6 @@ namespace StartMenuCleanUp1._0
             InitializeComponent();
         }
 
-
-
         private void Form1_Load(object sender, EventArgs e)
         {
             ClearBtn.Enabled  = false;
@@ -35,13 +33,12 @@ namespace StartMenuCleanUp1._0
             Console.WriteLine(StartMenu.path);
         }
         
-        
-
         public void SearchStartMenuBtn_Click(object sender, EventArgs e)
         {
-            SearchStartMenuBtn.Enabled = false;
-            StartMenu.GetStartMenu();
+            SearchStartMenuBtn.Enabled      = false;
             StartMenuListDisplay.DataSource = StartMenuList;
+            StartMenu.GetStartMenu();
+ 
 
             UpdateTotalText();
 
@@ -50,11 +47,9 @@ namespace StartMenuCleanUp1._0
             DeleteBtn.Enabled = true;
         }
 
-
         private void InfoBtn_Click(object sender, EventArgs e)
         {
             SetUpTest();
-
             UpdateInfoText();
         }
 
@@ -79,24 +74,18 @@ namespace StartMenuCleanUp1._0
             DeleteBtn.Enabled = false;
         }
 
-
         void SetUpTest()
         {
-            SelectedItem = StartMenuListDisplay.GetItemText(StartMenuListDisplay.SelectedItem);
+            SelectedItem  = StartMenuListDisplay.GetItemText(StartMenuListDisplay.SelectedItem);
             FileInfoPath2 = Directory.GetFiles(@StartMenu.path, "*" + SelectedItem, SearchOption.AllDirectories);
         }
-
-
-
-
-
 
         void ClearListBox()
         {
             StartMenuListDisplay.DataSource = null;
+            SearchStartMenuBtn.Enabled = true;
             StartMenuList.Clear();
             TotalText.Text = "0";
-            SearchStartMenuBtn.Enabled = true;
         }
 
         void ResetInfoText()
@@ -107,7 +96,7 @@ namespace StartMenuCleanUp1._0
 
         void UpdateTotalText()
         {
-            TotalInList = StartMenuList.Count();
+            TotalInList    = StartMenuList.Count();
             TotalText.Text = TotalInList.ToString();
         }
 
