@@ -77,7 +77,7 @@ namespace StartMenuCleanUp1._0
         private void ClearBtn_Click_1(object sender, EventArgs e)
         {
             ClearListBox();
-
+            ResetInfoText();
             ClearBtn.Enabled = false;
             InfoBtn.Enabled = false;
             DeleteBtn.Enabled = false;
@@ -97,6 +97,12 @@ namespace StartMenuCleanUp1._0
             StartMenuList.Clear();
             TotalText.Text = "0";
             SearchStartMenuBtn.Enabled = true;
+        }
+
+        void ResetInfoText()
+        {
+            FileNameText.Text = "N/A";
+            FilePathText.Text = "N/A";
         }
 
         void UpdateTotalText()
